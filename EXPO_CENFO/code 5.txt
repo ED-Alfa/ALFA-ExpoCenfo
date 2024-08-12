@@ -1,0 +1,37 @@
+import sys
+import requests
+import pandas as pd
+import datetime
+import threading
+import os
+import io
+import pygame
+from PyQt5.QtWidgets import (
+    QApplication, QWidget, QVBoxLayout, QLabel, QPushButton, QLineEdit,
+    QHBoxLayout, QMessageBox, QTabWidget, QTableWidget, QTableWidgetItem, QFileDialog
+)
+from PyQt5.QtCore import QTimer
+from PyQt5.QtGui import QFont, QIcon
+import pyqtgraph as pg
+from twilio.rest import Client
+import pymysql
+
+def __init__(self):
+        super().__init__()
+        self.upper_limit = 14.0
+        self.lower_limit = 0.0
+        self.recipient_whatsapp_number = ""
+        self.data = pd.DataFrame(columns=["Time", "PH"])
+        self.db_conn = connect_to_database()
+        self.initUI()
+        self.timer = QTimer(self)
+        self.timer.timeout.connect(self.fetch_ph_data)
+        self.fetch_started = False
+        self.alert_playing = False
+        self.alert_sound_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "alert.mp3")
+        pygame.mixer.init()
+        self.client = Client("AC1514c2e2ba3bf84e6f014722dca6830b", "a22fa24e4310269b36654b5cb171cda0")
+        threading.Thread(target=self.save_data_to_db, daemon=True).start()
+        self.refresh_timer = QTimer(self)
+        self.refresh_timer.timeout.connect(self.load_database_records)
+        self.refresh_timer.start(5000)

@@ -1,0 +1,31 @@
+import sys
+import requests
+import pandas as pd
+import datetime
+import threading
+import os
+import io
+import pygame
+from PyQt5.QtWidgets import (
+    QApplication, QWidget, QVBoxLayout, QLabel, QPushButton, QLineEdit,
+    QHBoxLayout, QMessageBox, QTabWidget, QTableWidget, QTableWidgetItem, QFileDialog
+)
+from PyQt5.QtCore import QTimer
+from PyQt5.QtGui import QFont, QIcon
+import pyqtgraph as pg
+from twilio.rest import Client
+import pymysql
+
+def connect_to_database():
+    return pymysql.connect(
+        host='mysql-2fe24db4-carlychery7-c0f0.e.aivencloud.com',
+        port=10789,
+        user='avnadmin',
+        password='AVNS_IFdKDCE8B2Gt7CPlkhc',
+        db='Alfa',
+        charset='utf8mb4',
+        cursorclass=pymysql.cursors.DictCursor
+    )
+
+class PHMonitorApp(QWidget):
+
