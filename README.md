@@ -1,7 +1,17 @@
 # ALFA-ExpoCenfo
 
+## Introducción
+
+
 ## Desrcipción del proyecto
 
-## C
 
-## C
+## Futuro Desarrollo
+
+
+## Impacto y Beneficios
+
+
+## Diagrama flujo de datos
+
+
