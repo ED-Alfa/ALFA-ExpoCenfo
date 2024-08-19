@@ -1,7 +1,13 @@
 # <img src="[/imágenes/ALFA1.png](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png)" alt="Project Screenshot" width="500"/> ALFA-ExpoCenfo<img src="[./imágenes/ALFA1.png](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png)" alt="Project Screenshot" width="500"/>
 ![Alt Text](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png)
-# <center> ALFAPONIC </center>
+<center> 
+ 
+# ALFAPONIC 
 
+</center>
+
+<div align="center">
+</div>
 # Contenidos
 - [Introducción](#Introducción)
 - [Desrcipción del proyecto](#Desrcipción-del-proyecto)
