@@ -10,10 +10,14 @@
 
 ## Contenidos
 - [Introducción](#Introducción)
+- [Organización del repositorio](Organización-del-repositorio)
+- [Realizadores del proyecto](Realizadores-del-proyecto)
+- [Materiales utilizados](Materiales-utilizados)
 - [Desrcipción del proyecto](#Desrcipción-del-proyecto)
+- [Resultados del modelo](Resultados-del-modelo)
+- [Diagrama flujo de datos](Diagrama-flujo-de-datos)
 - [Futuro Desarrollo](#Futuro-Desarrollo)
 - [Impacto y Beneficios](#Impacto-y-Beneficios)
-- [Diagrama flujo de dato](#Diagrama-flujo-de-datos)
 
 
 ## Introducción
@@ -60,7 +64,7 @@ El sistema incluye:
 - LCD board: Para leer las mediciones
 - Interface digital : Para leer las mediciones con otros dispositivos
 
-## Resuktados del modelo
+## Resultados del modelo
 
 ## Diagrama flujo de datos
 
