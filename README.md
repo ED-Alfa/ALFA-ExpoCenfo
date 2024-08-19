@@ -16,8 +16,15 @@ Entre las condiciones químicas, el pH y la Conductividad Eléctrica (CE) son fu
 
 Por su parte, la CE mide la capacidad del agua para transportar sales convertidas en cargas eléctricas de los nutrientes disueltos, asegurando la correcta nutrición de las plantas. 
 
+Nuestro proyecto aborda problemas clave en los sistemas hidropónicos mediante la medición de datos agronómicos, como el pH y los niveles de nutrientes. ALFA mide, recopila, analiza, y alerta en tiempo real sobre estos parámetros, permitiendo decisiones informadas que optimizan el crecimiento de las plantas, mejoran la producción, y reducen costos. 
+
+El sistema ALFA utiliza sensores para medir el pH y los niveles de nutrientes en tiempo real. El sistema compara los resultados de las mediciones con los rangos optimos de los diferentes parametros. Por ejemplo, si el pH está fuera del rango óptimo, el sistema alerta a los usuarios, quienes pueden ajustar los niveles añadiendo hidróxido de potasio (KOH) para elevar el pH o ácido fosfórico (H₃PO₄) para reducirlo. Esto asegura un monitoreo constante y decisiones rápidas que mantienen el desarrollo adecuado de las plantas. 
 
 ## Desrcipción del proyecto
+
+-El sistema incluye sensores de pH
+- Medidores de nutrientes
+- Sistema de alerta en tiempo real 
 
 
 ## Futuro Desarrollo
