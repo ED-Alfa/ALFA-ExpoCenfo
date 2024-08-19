@@ -1,4 +1,5 @@
-# ALFA-ExpoCenfo
+# <img src="./images/screenshot.png" alt="Project Screenshot" width="500"/> ALFA-ExpoCenfo<img src="./images/screenshot.png" alt="Project Screenshot" width="500"/>
+
 
 # Contenidos
 - [Introducción](#Introducción)
