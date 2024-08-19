@@ -2,10 +2,10 @@
 
 # Contenidos
 - [Introducción](#Introducción)
-- [Desrcipción del proyecto](#Desrcipción del proyecto)
-- [Futuro Desarrollo](#Futuro Desarrollo)
-- [Impacto y Beneficios](#Impacto y Beneficios)
-- [Diagrama flujo de dato](#Diagrama flujo de datos)
+- [Desrcipción del proyecto](#Desrcipcióndelproyecto)
+- [Futuro Desarrollo](#FuturoDesarrollo)
+- [Impacto y Beneficios](#ImpactoyBeneficios)
+- [Diagrama flujo de dato](#Diagramaflujodedatos)
 
 
 ## Introducción
