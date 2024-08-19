@@ -1,10 +1,32 @@
-# <img src="[/imágenes/ALFA1.png](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png)" alt="Project Screenshot" width="500"/> ALFA-ExpoCenfo<img src="[./imágenes/ALFA1.png](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png)" alt="Project Screenshot" width="500"/>
+<div align="center">
+ 
+<img src="https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png" alt="Project Screenshot" width="500" style="display:inline;"/>
+
+
+# ALFA-ExpoCenfo
+
+<img src="https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png" alt="Project Screenshot" width="500" style="display:inline;"/>
+
 ![Alt Text](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png)
+</div>
+
 <div align="center">
  
 # ALFAPONIC 
 
 </div>
+
+
+
+<img src="https://example.com/logo1.png" alt="Logo 1" width="100" style="display:inline;"/>
+
+# My Awesome Project
+
+<img src="https://example.com/logo2.png" alt="Logo 2" width="100" style="display:inline;"/>
+
+
+
+
 # Contenidos
 - [Introducción](#Introducción)
 - [Desrcipción del proyecto](#Desrcipción-del-proyecto)
