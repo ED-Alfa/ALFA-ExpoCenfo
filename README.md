@@ -77,6 +77,17 @@ El sistema incluye:
 
 ## Impacto y Beneficios
 
+## Contenidos
+
+- <span style="color:blue;">[Introducción](#Introducción)</span>
+- <span style="color:blue;">[Organización del repositorio](#Organización-del-repositorio)</span>
+- <span style="color:blue;">[Realizadores del proyecto](#Realizadores-del-proyecto)</span>
+- <span style="color:blue;">[Materiales utilizados](#Materiales-utilizados)</span>
+- <span style="color:blue;">[Desrcipción del proyecto](#Desrcipción-del-proyecto)</span>
+- <span style="color:blue;">[Resultados del modelo](#Resultados-del-modelo)</span>
+- <span style="color:blue;">[Diagrama flujo de datos](#Diagrama-flujo-de-datos)</span>
+- <span style="color:blue;">[Futuro Desarrollo](#Futuro-Desarrollo)</span>
+- <span style="color:blue;">[Impacto y Beneficios](#Impacto-y-Beneficios)</span>
 
 
 
