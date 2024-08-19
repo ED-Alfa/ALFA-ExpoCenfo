@@ -1,11 +1,11 @@
 <div align="center">
  
-<img src="https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png" alt="Project Screenshot" width="500" style="display:inline;"/>
+<img src="https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png" alt="Project Screenshot" width="80" style="display:inline;"/>
 
 
 # ALFA-ExpoCenfo
 
-<img src="https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png" alt="Project Screenshot" width="500" style="display:inline;"/>
+<img src="https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png" alt="Project Screenshot" width="80" style="display:inline;"/>
 
 ![Alt Text](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png)
 </div>
