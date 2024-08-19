@@ -3,8 +3,6 @@
 # ALFA-ExpoCenfo
 
 <img src="https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/ALFA1.png" alt="Project Screenshot" width="80" style="display:inline;"/>
-
-</div>
  
 # ALFAPONIC 
 
