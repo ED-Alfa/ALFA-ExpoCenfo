@@ -41,9 +41,9 @@ Nuestro proyecto aborda problemas clave en los sistemas hidropónicos mediante l
 - lib :
 
 ## Realizadores del proyecto
-- C
-- G
-- E
+- Carly Chéry
+- Gédéon Jaboin
+- Ed Duddley Dumont
   
 ## Materiales utilizados
 - IDEA Board (ESP32)
@@ -72,12 +72,14 @@ El sistema incluye:
 
 - Medidores de nutrientes : los niveles de nutrientes en tiempo real.
 - Base de datos
-- Sensor
-- 
+- Medidor de conductividad eléctrica
+- Medidor de temperatura
+- Autonomía del sistema
 
 ## Impacto y Beneficios
 
-
+- Accesible a productores de pequeña escala
+- Investigación
 
 
 
