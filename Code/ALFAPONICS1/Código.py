@@ -218,22 +218,3 @@ def check_rfid():
     else:
         print("No se detectó ninguna tarjeta.")
 
-# Inicia el servidor
-try:
-    ipv4 = wifi.radio.ipv4_address
-    print(f"Servidor iniciando en http://{ipv4}")
-    server.start(str(ipv4))
-except Exception as e:
-    print(f"Error al iniciar el servidor: {e}")
-    while True:
-        pass
-
-# Bucle principal para manejar solicitudes, lectura de RFID y actualización de la pantalla LCD
-while True:
-    try:
-        check_rfid()  # Verifica la presencia de la tarjeta RFID
-        server.poll()  # Maneja las solicitudes entrantes
-    except Exception as e:
-        print("Error manejando la solicitud:", e)
-        continue
-    time.sleep(1)  # Espera 1 segundo antes de volver a verificar
