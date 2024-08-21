@@ -85,7 +85,7 @@ El sistema incluye:
 
 ## Resultados del modelo
 
-<iframe width="560" height="315" src="https://youtu.be/5CN1vGzi0BA?si=H7DCy3QhRIZqE-gs" frameborder="0" allowfullscreen></iframe>
+[<iframe width="560" height="315" src="https://youtu.be/5CN1vGzi0BA?si=H7DCy3QhRIZqE-gs" frameborder="0" allowfullscreen></iframe>](https://www.canva.com/design/DAGOedntyOE/igP45DiNYewFjrUA3he1hA/edit?utm_content=DAGOedntyOE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Diagrama flujo de datos
