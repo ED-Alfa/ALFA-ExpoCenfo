@@ -84,7 +84,7 @@ El sistema incluye:
 ## Impacto y Beneficios
 
 - Accesible a productores de pequeña escala
-- Investigación
+- Recopilación de datos para investigación
 
 
 
