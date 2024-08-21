@@ -4,7 +4,7 @@
 
 <img src="https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/Logo.png" alt="Project Screenshot" width="80" style="display:inline;"/>
  
-# ALFAPONIC 
+# ALFAPONICS 
 
 </div>
 
