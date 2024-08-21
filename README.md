@@ -72,7 +72,7 @@ Nuestro proyecto aborda problemas clave en los sistemas hidropónicos mediante l
 
 ## Desrcipción del proyecto
 
-ALFAPONIC compara los resultados de las mediciones con los rangos optimos de los diferentes parametros. Por ejemplo, si el pH está fuera del rango óptimo, el sistema alerta a los usuarios, quienes pueden ajustar los niveles añadiendo hidróxido de potasio (KOH) para elevar el pH o ácido fosfórico (H₃PO₄) para reducirlo. Esto asegura un monitoreo constante y decisiones rápidas que mantienen el desarrollo adecuado de las plantas. 
+ALFAPONICS compara los resultados de las mediciones con los rangos optimos de los diferentes parametros. Por ejemplo, si el pH está fuera del rango óptimo, el sistema alerta a los usuarios, quienes pueden ajustar los niveles añadiendo hidróxido de potasio (KOH) para elevar el pH o ácido fosfórico (H₃PO₄) para reducirlo. Esto asegura un monitoreo constante y decisiones rápidas que mantienen el desarrollo adecuado de las plantas. 
 
 Una vez desarrollado, el sistema ALFA podrá adaptarse a cualquier sistema hidropónico que necesite un monitoreo constante y una toma de decisiones basada en datos en tiempo real, mejorando la eficiencia y productividad. 
 
