@@ -70,6 +70,8 @@ El sistema incluye:
 
 <img src="[https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/Logo.png](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/Flujo%20de%20datos%20ALFAPONICS.png)/>
 
+![Alt text](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/Flujo%20de%20datos%20ALFAPONICS.png)
+
 
 
 ## Futuro Desarrollo
