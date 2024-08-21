@@ -51,13 +51,12 @@ Nuestro proyecto aborda problemas clave en los sistemas hidropónicos mediante l
 
 
 ## Organización del repositorio
-- Code : 
-- Diseo :
-- Documentos :
-- Imagenes :
-- Licencia :
-- Pruebas :
-- lib :
+- Code 
+- Diseo : Representación 3D del proyecto
+- Imagenes 
+- Licencia : Los términos de uso del proyecto
+- Pruebas : Video donde se probó el funcionamiento del proyecto
+- lib : Los paquetes que se utilizaron para realizar el proyecto
 
 ## Realizadores del proyecto
 - Carly Chéry
