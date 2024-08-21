@@ -37,6 +37,19 @@ Nuestro proyecto aborda problemas clave en los sistemas hidropónicos mediante l
 </div>
 
 
+<div align="center">
+ 
+![nutrientes](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/finca%20cultivos.png)
+
+</div>
+
+<div align="center">
+ 
+![nutrientes](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/centro%20de%20cosecha.png)
+
+</div>
+
+
 ## Organización del repositorio
 - Code : 
 - Diseo :
