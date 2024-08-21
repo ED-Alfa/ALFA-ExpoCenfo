@@ -30,9 +30,10 @@ Por su parte, la CE mide la capacidad del agua para transportar sales convertida
 
 Nuestro proyecto aborda problemas clave en los sistemas hidropónicos mediante la medición de datos agronómicos, como el pH y los niveles de nutrientes. ALFAPONIC mide, recopila, analiza, y alerta en tiempo real sobre estos parámetros, permitiendo decisiones informadas que optimizan el crecimiento de las plantas, mejoran la producción, y reducen costos. 
 
+<div align="center">
 ![nutrientes](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/nutrientxpH.png)
 
-
+</div>
 
 ## Organización del repositorio
 - Code : 
