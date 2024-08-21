@@ -85,7 +85,7 @@ El sistema incluye:
 
 ## Resultados del modelo
 
-![Funny GIF]([https://www.canva.com/design/DAGOedntyOE/XJY3pRiyMCWpKUxkeVDclA/watch](https://www.youtube.com/shorts/QY9Ts_ooqIk))
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5CN1vGzi0BA?si=iX6XQK-HnDKT6t1y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Diagrama flujo de datos
 
