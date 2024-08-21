@@ -32,10 +32,10 @@ Nuestro proyecto aborda problemas clave en los sistemas hidropónicos mediante l
 
 <div align="center">
  
-![nutrientes2](blob:https://earthac.sharepoint.com/c38ee57f-4358-4f8c-98dd-b66d80411b12)
+![nutrientes](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/nutrientxpH.png)
 
 </div>
-![nutrientes](https://github.com/ED-Alfa/ALFA-ExpoCenfo/blob/main/Im%C3%A1genes/nutrientxpH.png)
+
 
 ## Organización del repositorio
 - Code : 
